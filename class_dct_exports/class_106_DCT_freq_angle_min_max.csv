@@ -1,0 +1,2 @@
+class,R_freq,R_angle,R_min,R_max,G_freq,G_angle,G_min,G_max,B_freq,B_angle,B_min,B_max
+106,0.011969,45.0,10,177,0.008464,90.0,0,251,0.011969,45.0,0,255
